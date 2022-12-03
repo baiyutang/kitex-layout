@@ -1,0 +1,3 @@
+server:
+  name: world
+  port: 8080
